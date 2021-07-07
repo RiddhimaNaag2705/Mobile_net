@@ -1,0 +1,51 @@
+body{
+    background: pink;
+    font-family: 'Yomogi', cursive;
+}
+
+.header_div{
+    background-color: white;
+    color: black;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.capture_button, .identify_button{
+    background-color: rgb(233, 233, 185);
+    color: black;
+}
+
+.main_div{
+    background-color: rgb(238, 226, 226);
+    padding: 10px;
+    border-radius: 10px;
+    border: black dashed;
+}
+
+.main_div label{
+    width: 310px;
+    background-color: rgb(230, 209, 209);
+    box-shadow: 5px 5px 18px black;
+    border-radius: 8px;
+}
+
+#camera, #snapshot{
+    border: 2px black dashed;
+    width: 310px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.footer_div h4{
+   background-color: white;
+   color: black;
+   border-radius: 5px;
+}
+
+.footer_div img{
+    width: 100px;
+    height: 100px;
+}
